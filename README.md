@@ -3,9 +3,6 @@
 # LitetSpel_TA_LP4
 Lilla Spelproject letsgo
 
-TEST
-Edited i readme-edit branchen.
+Kolla tutorial här på hur du använder github:
+https://guides.github.com/activities/hello-world/
 
-commits = save changes
-
-commit message = message varför du ändrade det du ändrade
